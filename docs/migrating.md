@@ -273,6 +273,10 @@ const CheckoutForm = (props) => {
 };
 ```
 
+### Side notes
+
+Please note that `CardCVCElement` has been renamed to `CardCvcElement` and `PostalCodeElement` is not available now. You can check available components [here](https://stripe.com/docs/stripe-js/react#available-element-components).
+
 <br />
 
 ---
